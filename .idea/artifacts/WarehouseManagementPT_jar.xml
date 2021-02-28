@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WarehouseManagementPT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WarehouseManagementPT_jar</output-path>
+    <root id="archive" name="WarehouseManagementPT.jar">
+      <element id="module-output" name="WarehouseManagement" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/pdfbox/fontbox/2.0.4/fontbox-2.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/itextpdf/itextpdf/5.5.10/itextpdf-5.5.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/2.0.4/pdfbox-2.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
